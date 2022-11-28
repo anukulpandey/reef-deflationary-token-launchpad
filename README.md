@@ -2,6 +2,8 @@
 
 Hey Folks! This is a Decentralised Web-application [Dapp] 💰 built on top of **Reef Chain** where you can launch your own tokens without any coding experience. Not only that, you will be able to customise your token to full extent by choosing its Name, Symbol , Initial supply and the most important parameter Fees. (How much percentage of the token will be burnt). Basically you can deploy Deflationary tokens. What is it? Well... A deflationary token is the token which experiences deflation rather than inflation, i.e over time, it becomes more valuable unlike most of the currencies out there.
 
+##Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/3BYIsSOrzJ0/0.jpg)](http://www.youtube.com/watch?v=3BYIsSOrzJ0 "Watch Me")
 
 ## Features
 |Property      |Use case         | Reliability  |
